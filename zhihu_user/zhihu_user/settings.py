@@ -40,8 +40,8 @@ DOWNLOAD_DELAY = 0.1
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-    'User-Agent':"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
-    'authorization':'oauth c3cef7c66a1843f8b3a9e6a1e3160e20',
+    'User-Agent':"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36",
+#'authorization':'oauth c3cef7c66a1843f8b3a9e6a1e3160e20',
 }
 
 # Enable or disable spider middlewares
